@@ -1,3 +1,16 @@
 {
-	"firstName": "Ik wil hier iets anders"
+	"firstName": "Ik wil hier iets anders",
+	"ski": "samenwerking kynologische instructeurs",
+	"complexSchedule": [
+		{
+			"typeOfCursus": "Agility",
+			"cursusGivenBy": "Manon",
+			"datesOfCursus": "Elke dinsdag van 22-9 - 05-01"
+		},
+		{
+			"typeOfCursus": "Puppy",
+			"cursusGivenBy": "Corry",
+			"datesOfCursus": "22-9, 27-9, 10-10"
+		}
+	]
 }

@@ -50,5 +50,15 @@
 	"introductiontitle": "Introductie",
 	"introduction": "<p>Hallo!</p>\n<p>Wij zijn Manon, Corry en Alida.</p>\n<p>&nbsp;</p>",
 	"puppytitel": "Puppy cursus",
-	"puppy": "<p>Iets over puppies!</p>\n<p>&nbsp;</p>"
+	"puppy": "<p>Iets over puppies!</p>\n<p>&nbsp;</p>",
+	"activiteiten": [
+		{
+			"title": "Activiteit 1",
+			"text": "Activiteit\n"
+		},
+		{
+			"title": "Activiteit 2",
+			"text": "Activiteit"
+		}
+	]
 }

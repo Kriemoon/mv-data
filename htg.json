@@ -48,5 +48,7 @@
 		}
 	],
 	"introductiontitle": "Introductie",
-	"introduction": "<p>Hallo!</p>\n<p>Wij zijn Manon, Corry en Alida.</p>\n<p>&nbsp;</p>"
+	"introduction": "<p>Hallo!</p>\n<p>Wij zijn Manon, Corry en Alida.</p>\n<p>&nbsp;</p>",
+	"puppytitel": "Puppy cursus",
+	"puppy": "<p>Iets over puppies!</p>\n<p>&nbsp;</p>"
 }

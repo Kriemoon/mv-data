@@ -60,5 +60,7 @@
 			"title": "Activiteit 2",
 			"text": "Activiteit"
 		}
-	]
+	],
+	"pubertitel": "Puber",
+	"puber": "<p>Tekst</p>"
 }

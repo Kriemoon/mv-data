@@ -86,14 +86,6 @@
 			"name": "Manon",
 			"@type": "Painting",
 			"image": "https://cdn.jsdelivr.net/gh/Kriemoon/mv-data@cd51e46efa7ac6a11f3a1756dfeec19d92fe0ea5/images/manon.jpg"
-		},
-		{
-			"name": "Gallerij",
-			"@type": "Painting"
-		},
-		{
-			"name": "Gallerij",
-			"@type": "Painting"
 		}
 	]
 }
